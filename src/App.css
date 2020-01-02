@@ -13,3 +13,12 @@
     background-color: wheat;
     color: firebrick;
 }
+
+ul {
+    list-style-type: none;    
+}
+
+button {
+    font-size: 58px;
+    border-radius: 3px;
+}
