@@ -30,6 +30,7 @@ class Bomb extends React.Component {
         console.log('boom with 4 exclamation points');
         this.setState({
           word: "BOOM!!!!"
+  
         })
         clearInterval(this.interval)
       }
